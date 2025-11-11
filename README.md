@@ -79,7 +79,7 @@ Cada integrante deve realizar **pelo menos 1 commit individual** no arquivo READ
 
 | Integrante                             | Matrícula      | Contribuição Principal                                | Data do Commit        |
 | -------------------------------------- | -------------- | ----------------------------------------------------- | --------------------- |
-| **Marcos Vinicius dos Santos Silva**   | 2025 0242 5139 | Estrutura inicial do projeto e formatação do README   | *(aguardando commit)* |
+| **Marcos Vinicius dos Santos Silva**   | 2025 0242 5139 | Estrutura inicial do projeto e formatação do README   | 11/11/2025            |
 | **Gabriel Ferreira Aguiar**            | 2025 0867 9639 | Detalhamento dos comandos e revisão ortográfica       | *(aguardando commit)* |
 | **Lucas Sousa Nascimento**             | 2025 0894 3956 | Criação e revisão geral do README e documentação      | 10/11/2025            |
 | **Ismael Azevedo de Araújo Junior**    | 2025 0834 2197 | Revisão de estrutura e apoio na padronização          | *(aguardando commit)* |
