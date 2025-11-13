@@ -1,4 +1,4 @@
-# Projeto – ARA0097 (Aula 11): Gerência de Configuração e Git
+# Projeto – ARA0097 (Aula 11): Gerenciamento de Configurações, controle de versões e Git e GitHub
 
 ## 🎯 Objetivo
 Este projeto tem como propósito aplicar na prática os conceitos de **Gerenciamento de Configuração e Controle de Versão**, utilizando **Git e GitHub** como ferramentas colaborativas.  
